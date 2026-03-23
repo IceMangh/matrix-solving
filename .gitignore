@@ -1,0 +1,4 @@
+.idea/
+.matplotlib/
+.venv/
+__pycache__/
